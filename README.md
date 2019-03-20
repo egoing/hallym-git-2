@@ -1,7 +1,7 @@
 # 한림대 git 강의
 
-# 이곳으로 오는 방법
-https://opentutorials.org/module/3733
+# 아래 주소를 입력하면 이곳으로 올 수 있습니다. 
+- http://bit.ly/hallym-git
 
 # 실습하실 분은 설치해주세요
 https://tortoisegit.org/
